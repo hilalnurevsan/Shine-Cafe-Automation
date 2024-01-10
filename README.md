@@ -1,4 +1,9 @@
 # Shine-Cafe-Automation
+
+Elif EROĞLU - 20050111080
+Hilal Nurevşan KARAPINAR - 20050111014
+Ayşe KAVAK - 21050111028
+
 After cloning the repository, open the "source" folder in QT Creator and select "ShineCafe.pro" to open our project. You will need to update the file paths for the following .cpp files in your project to reflect their locations on your local machine:
 
 add_waiter.cpp
@@ -25,3 +30,5 @@ Username: ays
 Password: 20
 
 After logging in with any user, you can perform the desired tasks.
+
+All group members contributed the project equallly.
